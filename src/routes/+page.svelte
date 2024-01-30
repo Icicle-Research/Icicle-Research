@@ -2,6 +2,7 @@
 <svelte:head>
 	<title>Icicle Research</title>
 	<meta name="description" content="Icicle Research" />
+   
 </svelte:head>
 
 <h1 class="text-3xl bg-blue-300 text-center font-bold underline">Icicle !!</h1>
